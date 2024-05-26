@@ -6,6 +6,10 @@ CALADAN is a PyTorch-based learning project for the automated detection of vario
 ![image](https://github.com/toufiqmusah/CALADAN/assets/92761339/949c8971-ce91-4e23-bf4f-ff41b6e8c542)
 </p>
 
+<p align="center">
+  <img src="https://github.com/toufiqmusah/CALADAN/assets/92761339/949c8971-ce91-4e23-bf4f-ff41b6e8c542" alt="Sublime's custom image"/>
+</p>
+
 ## Models
 - **EfficientNetB0**: Known for its efficiency and effectiveness in image classification tasks, this model has been adapted to focus specifically on ocular images.
 - **ResNet101**: Leveraged for its deep residual learning framework, making it ideal for handling complex image recognition tasks associated with eye pathologies.
