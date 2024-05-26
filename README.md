@@ -1,6 +1,8 @@
 # CALADAN: Ocular Pathology Detection using PyTorc
 
 CALADAN is a PyTorch-based learning project for the automated detection of various ocular pathologies through fine-tuned deep learning models. This project includes implementations of EfficientNetB0 and ResNet models, tailored to identify a range of eye diseases from image data effectively.
+
+
 ![image](https://github.com/toufiqmusah/CALADAN/assets/92761339/949c8971-ce91-4e23-bf4f-ff41b6e8c542)
 
 
